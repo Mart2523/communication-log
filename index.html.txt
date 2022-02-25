@@ -2,5 +2,13 @@
 <html>
    <body>
       <p>Radio check. Pilot, please confirm.</p>
+<<<<<<< HEAD
    </body>
 </html>
+=======
+    <p>Roger Overwatch, Radio is crystal.</p>
+   
+   </body>
+</html>
+>>>>>>> 528e756bec641632459c95e55355558d726ed031
+<p>Ready for next stage?</p>
